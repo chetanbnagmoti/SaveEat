@@ -1,0 +1,119 @@
+#thd{
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+}
+#thdh{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    /* identical to box height, or 125% */
+    
+   
+    text-align: center;
+    
+    /* Black */
+    
+    color: #000000;
+   
+}
+#edit{
+    position: absolute;
+width: 40vw;
+height: 100%;
+/* left: 600px;
+top: 74px; */
+/* border: 1px solid; */
+right:10px;
+/* z-index: 1; */
+background: #FFFFFF;
+border-radius: 10px;
+display: flex;
+flex-direction: column;
+gap: 3px;
+}
+#editdate{
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    border: 1px solid gray;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+gap: 5px;
+}
+ #exdt{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+ }
+ #extm{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 24px;  
+ }
+  .btt{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Primary Color | Black */
+
+color: #000000;
+}
+input[type="text"] {
+    width: 100%; 
+    height: 25px;
+    box-sizing: border-box;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing: border-box;
+    border: 1px solid #C2C2C2;
+}
+#cap{
+   
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 8px;
+/* or 100% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+#btnparent{
+    position: relative;
+}
+#btncaption{
+    position: absolute;
+    width: 93px;
+    height: 19px;
+    /* right: -0px; */
+    left: 1px;
+    top: 29px;
+z-index: 1;
+
+/* Alternate Brand Panel Color */
+display: flex;
+justify-content: space-evenly;
+background: #19ABAD;
+border-radius: 5px;
+}

@@ -1,0 +1,14 @@
+/*  */
+
+  #btt{
+    font-family: 'Inter';
+font-style: normal;
+/* identical to box height */
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+text-align: center;
+
+}

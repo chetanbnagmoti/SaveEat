@@ -1,0 +1,24 @@
+#mod_header{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+/* Alternate Brand Panel Color */
+
+color: #19ABAD;
+}
+#mod_body_Header{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+text-decoration-line: underline;
+
+/* Alternate Brand Panel Color */
+
+color: #19ABAD;
+}

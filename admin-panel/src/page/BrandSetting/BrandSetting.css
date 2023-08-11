@@ -1,0 +1,118 @@
+#bdy{
+   
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 10px;
+   padding-bottom: 40px;
+    
+    background: #FFFFFF;
+    /* Order Shadow */
+    
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+#hdr{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+
+/* Alternate Brand Panel Color */
+
+color: #19ABAD;
+}
+#btt{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+/* Primary Color | Black */
+
+color: #000000;
+}
+
+/* .Register-name{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+
+
+color: #333333;
+} */
+
+/*tag input css*/
+.tag-container {
+ width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+    border: 1px solid #D4D4D4;
+    border-radius: 6px;
+    padding: 4px;
+  }
+  .tag {
+    display: flex;
+    align-items: center;
+    padding: 11px;
+    background: #19ABAD;
+    border-radius: 100px;
+    color: #FFFFFF;
+    height: 12px;
+    margin: 0px 0px 0px 5px;
+
+    font-family: 'Inter';
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 15px;
+  }
+  
+  .tag-container input {
+    border: none;
+    flex: 1;
+    outline: none;
+    padding: 13;
+    /* background: black; */
+  }
+  .tag span {
+    margin-left: 5px;
+    cursor: pointer;
+  }
+  
+  #ModalHdr{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+  }
+
+
+  /*Modal*/
+  #Modalbdy{
+
+    padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 10px;
+   padding-bottom: 40px;
+    background: #FFFFFF;
+box-shadow: 0px 1px 9px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+  }

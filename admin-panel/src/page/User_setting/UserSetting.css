@@ -1,0 +1,73 @@
+
+#thd{
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    /* line-height: 16px; */
+   
+   /* text-overflow: ellipsis;
+  overflow: hidden;  */
+}
+#thds{
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    padding: 3px;
+    color: white;
+    /* min-width: 50px; */
+    /* text-overflow: ellipsis;
+    overflow: hidden;  */
+}
+.hgf{
+
+   /* text-overflow: ellipsis;
+    overflow: hidden;  */
+  
+    background: #19ABAD;
+/* text-align: center; */
+border: 4px solid #19ABAD;
+
+}
+
+#hd{
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+}
+
+
+  .btt{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Primary Color | Black */
+
+color: #000000;
+}
+
+
+#ModalHdr{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+  
+  
+  color: #000000;
+}

@@ -1,0 +1,77 @@
+.order_No{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 24px;
+color: #ffffff;
+}
+/* .order_Price{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+} */
+.order_date{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 24px;
+text-overflow: ellipsis;
+overflow-x: hidden; 
+
+
+color: #ffffff;
+}
+.order_time{
+
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+text-overflow: ellipsis;
+overflow-x: hidden; 
+
+color: #ffffff;
+}
+.swtch{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 24px;
+/* identical to box height, or 75% */
+width: 150px;
+/* White */
+
+color: #FFFFFF;
+}
+/* .mnu{
+    display: none;
+    position: relative;
+  z-index: 1;
+}
+#mBtn{
+    position: relative;
+}
+#mBtn:hover .mnu{display: block} */
+.btt{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Primary Color | Black */
+
+color: #000000;
+}

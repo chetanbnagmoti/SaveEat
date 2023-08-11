@@ -1,0 +1,124 @@
+/* tbody:before {
+    content:"@";
+    display:inline-block;
+    line-height:10px;
+    text-indent:-99999px;
+} */
+
+#thd{
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    /* line-height: 16px; */
+   
+   /* text-overflow: ellipsis;
+  overflow: hidden;  */
+}
+#thds{
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    padding: 3px;
+    color: white;
+    /* min-width: 50px; */
+    /* text-overflow: ellipsis;
+    overflow: hidden;  */
+}
+.hgf{
+
+   /* text-overflow: ellipsis;
+    overflow: hidden;  */
+  
+    background: #19ABAD;
+/* text-align: center; */
+border: 4px solid #19ABAD;
+
+}
+
+/* .info{
+    background: #FFFFFF;
+box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+} */
+
+/* .table-container {
+    width: 100%;
+    overflow-x: auto;
+  }
+  
+  .table-container table {
+    min-width: 100%;
+  }
+  
+  .table-container td,
+  .table-container th {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  @media (max-width: 480px) {
+    .table-container {
+      overflow-x: scroll;
+    }
+  } */
+  .btt{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Primary Color | Black */
+
+color: #000000;
+}
+input[type="text"] {
+    width: 100%; 
+    height: 25px;
+    box-sizing: border-box;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing: border-box;
+    border: 1px solid #C2C2C2;
+}
+#cap{
+   
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 8px;
+/* or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+#btnparent{
+    position: relative;
+}
+#btncaption{
+    position: absolute;
+    width: 93px;
+    height: 19px;
+    /* right: -0px; */
+    left: 1px;
+    top: 29px;
+z-index: 1;
+
+/* Alternate Brand Panel Color */
+display: flex;
+justify-content: space-evenly;
+background: #19ABAD;
+border-radius: 5px;
+}
